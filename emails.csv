@@ -1,0 +1,91 @@
+text,label
+"Your assignment grade has been posted on Canvas",legitimate
+"Reminder: CS project is due tonight at 11:59 PM",legitimate
+"Meeting for group project in library at 3 PM",legitimate
+"Your professor has updated the syllabus",legitimate
+"Class has been canceled due to weather conditions",legitimate
+"Your financial aid has been processed successfully",legitimate
+"Final exam schedule has been released",legitimate
+"Don’t forget to submit your lab report",legitimate
+"Office hours moved to Thursday this week",legitimate
+"Your transcript request has been approved",legitimate
+"Netflix: Your monthly payment was successful",legitimate
+"Spotify Premium receipt for this month",legitimate
+"Your Amazon order has shipped",legitimate
+"Your bank statement is ready to view",legitimate
+"Electricity bill for this month is available",legitimate
+"Water bill payment confirmed",legitimate
+"Your phone bill is due next week",legitimate
+"Apple receipt for App Store purchase",legitimate
+"You have a new Snapchat friend request",legitimate
+"Instagram login from new device detected",legitimate
+"Your package will arrive tomorrow",legitimate
+"DoorDash order confirmation",legitimate
+"Uber receipt for your ride",legitimate
+"You have a new email from your teacher",legitimate
+"Discord notification: new message in server",legitimate
+"Your subscription will renew automatically",legitimate
+"Gym membership payment successful",legitimate
+"School cafeteria balance updated",legitimate
+"Your FAFSA update is available",legitimate
+"Library due date reminder for borrowed book",legitimate
+"Your course registration is confirmed",legitimate
+"Study group meeting scheduled for Friday",legitimate
+"Campus job application update",legitimate
+"Your dorm maintenance request was received",legitimate
+"Your tuition payment has been processed",legitimate
+"Amazon Prime subscription renewed successfully",legitimate
+"Your credit card statement is ready",legitimate
+"Phone carrier bill is now available",legitimate
+"Your scholarship application was received",legitimate
+"New message from your professor on Canvas",legitimate
+"Your account will be suspended immediately",phishing
+"Click here to verify your Netflix account",phishing
+"Your bank account has been locked",phishing
+"You have won a free iPhone claim now",phishing
+"Final warning update payment information",phishing
+"Your Amazon account has been compromised login now",phishing
+"Spotify payment failed update billing info",phishing
+"Your email will be deleted unless verified",phishing
+"Security alert unusual login detected confirm identity",phishing
+"Your student loan requires immediate verification",phishing
+"Claim your $1000 gift card reward now",phishing
+"Your PayPal account has been limited click here",phishing
+"IRS refund available submit details to receive money",phishing
+"Your subscription has been paused reactivate now",phishing
+"Apple ID locked verify to unlock account",phishing
+"Your credit card has been frozen verify now",phishing
+"Emergency account breach detected reset password",phishing
+"You have been selected for a scholarship prize",phishing
+"Your billing failed update payment immediately",phishing
+"Confirm identity to avoid account deletion",phishing
+"Your social media account will be disabled",phishing
+"Click here to claim your refund instantly",phishing
+"Warning illegal login attempt blocked verify now",phishing
+"Your PayPal refund is waiting",phishing
+"Amazon delivery failed confirm address",phishing
+"Your Netflix subscription has expired",phishing
+"Re-activate your account now to avoid loss",phishing
+"Update your bank details immediately",phishing
+"Verify your Apple ID to continue using services",phishing
+"Your tax refund is pending approval",phishing
+"Your phone has been infected scan now",phishing
+"Congratulations you won a $500 Amazon gift card",phishing
+"URGENT school account suspended verify now",phishing
+"Your Gmail storage is full upgrade immediately",phishing
+"Your cloud storage is at risk confirm now",phishing
+"Security notice password expired reset now",phishing
+"Your payment method was declined fix now",phishing
+"Immediate action required verify account",phishing
+"Your bank requires identity confirmation",phishing
+"Your account has been flagged for review",phishing
+"Your Canvas login will expire today",phishing
+"Verify your identity to continue accessing services",phishing
+"Your refund is pending click to claim",phishing
+"Unusual activity detected secure your account now",phishing
+"Your student account is suspended verify immediately",phishing
+"Your subscription payment failed update now",phishing
+"Claim your emergency student funding now",phishing
+"Your account access will be revoked soon",phishing
+"Click link to restore your account",phishing
+"Final notice verify before account closure",phishing
